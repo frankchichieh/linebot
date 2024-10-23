@@ -1,0 +1,9 @@
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\linebotwebapi.exe
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\linebotwebapi.dll
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\linebotwebapi.deps.json
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\linebotwebapi.runtimeconfig.json
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\linebotwebapi.pdb
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\Line.Messaging.dll
+D:\VSCODE\C#\linebotwebapi\linebotwebapi\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
